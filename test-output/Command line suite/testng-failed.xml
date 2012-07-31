@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Command line suite]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="fr.loyat.kata5.TestBloomFilterTest">
+        <methods>
+          <include name="testAdd"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>

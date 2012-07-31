@@ -1,0 +1,14 @@
+<testng-results>
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="74" started-at="2012-07-30T13:16:14Z" finished-at="2012-07-30T13:16:14Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="74" started-at="2012-07-30T13:16:14Z" finished-at="2012-07-30T13:16:14Z">
+      <class name="fr.loyat.kata5.TestBloomFilterTest">
+        <test-method status="PASS" signature="testAdd()" name="testAdd" duration-ms="56" started-at="2012-07-30T13:16:14Z" finished-at="2012-07-30T13:16:14Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
